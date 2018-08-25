@@ -5,3 +5,5 @@ The core concept of a quick sort is really simple. After computing all elements 
 as a <strong>pivot</strong>. Once the pivot is selected, all elements that are bigger than the pivot will be moved to the right, and all elements 
 that are smaller than the pivot will be moved to the left. After that, this process is repeated recursively until the list of elements
 is sorted correctly.
+
+* <em>quick_sort.exe</em> to try it out
